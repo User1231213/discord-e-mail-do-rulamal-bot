@@ -57,10 +57,4 @@ And start it
 ```bash 
     npm start
 ```
- ## Support
-For support, dm [zédyN#1001](https://discord.com/users/1096540990162088058) on Discord.
-## License
-
-[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
-
   
